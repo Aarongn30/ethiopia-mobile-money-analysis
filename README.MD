@@ -1,4 +1,4 @@
 ## Author
 
-Aron G/medhin  
+Aron Gebremedhin  
 arongn30@gmail.com
